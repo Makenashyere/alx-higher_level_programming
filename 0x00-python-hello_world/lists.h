@@ -3,7 +3,11 @@
 
 #include <stdlib.h>
 
-
+/**
+ * struct listint_s - singly linked list
+ * @n: int
+ * @next: ptr to next ode
+ */
 typedef struct listint_s
 {
 	int n;
