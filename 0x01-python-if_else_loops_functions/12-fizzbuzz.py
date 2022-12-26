@@ -1,4 +1,4 @@
-#1/usr/bin/python3
+#!/usr/bin/python3
 
 """Print the numbers from 1 to 100 seoarated by a space.
   For multiples of three, print fizz instead of the number.
